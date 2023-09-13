@@ -3,6 +3,7 @@ kaggle profile: https://www.kaggle.com/karolinerayzel
 
 ### About me
 I'm a Data Scientist in development
+
 👩🏻‍💻 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
 
 - 🔭 I’m currently working on R, Python, Google Sheets and LibreCalc applied to independent projects in my development area.
