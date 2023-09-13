@@ -1,13 +1,16 @@
 ### 👋 Hi, I’m @karolrrcampos
-[![Kaggle](https://www.kaggle.com/karolinerayzel)
+kaggle profile: https://www.kaggle.com/karolinerayzel
 
 ### About me
-I'm a Data Dcientist in development
+I'm a Data Scientist in development
+👩🏻‍💻 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
 
-- 👀 I’m interested in data science, games, 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 I’m currently working on R, Python, Google Sheets and LibreCalc applied to independent projects in my development area.
+- 📚 I’m currently learning Pyhton and R
+- 🤔 I’m currently for help with coding
+- 🤜🏻🤛🏻 I’m looking to collaborate on little projects
+- 👩🏻 Pronouns: She/her
+- 📫 How to reach me: karoline.rayzel.rodrigues@alumni.usp.br
 
 <!---
 karolrrcampos/karolrrcampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
