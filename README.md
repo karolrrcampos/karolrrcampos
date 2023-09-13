@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @karolrrcampos
-[![Kaggle Badge](https://www.kaggle.com/karolinerayzel)
+[![Kaggle](https://www.kaggle.com/karolinerayzel)
 
 ### About me
 I'm a Data Dcientist in development
