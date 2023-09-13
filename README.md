@@ -8,7 +8,7 @@ I'm a Data Scientist in development
 
 - 🔭 I’m currently working on R, Python, Google Sheets and LibreCalc applied to independent projects in my development area.
 - 📚 I’m currently learning Pyhton and R
-- 🤔 I’m currently for help with coding
+- 🤔 I’m currently looking for help with coding
 - 🤜🏻🤛🏻 I’m looking to collaborate on little projects
 - 👩🏻 Pronouns: She/her
 - 📫 How to reach me: karoline.rayzel.rodrigues@alumni.usp.br
