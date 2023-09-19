@@ -1,16 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/xLT2SkK598fndwwyvn/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/xLT2SkK598fndwwyvn/giphy.gif" width="30px"/>
-</h1>
-
----
-
 <div align="center">
-  <img src="https://media.giphy.com/media/fGmmfwQtCyHvwzhlyj/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/fGmmfwQtCyHvwzhlyj/giphy.gif" width="300" height="300"/>
 </div>
 
 ---
@@ -32,7 +29,6 @@ I'm a Data Scientist in development
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
