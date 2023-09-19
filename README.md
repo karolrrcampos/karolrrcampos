@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
-</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="30px"/>
+</h1>
 
 ### 👋 Hi, I’m @karolrrcampos
 kaggle profile: https://www.kaggle.com/karolinerayzel
