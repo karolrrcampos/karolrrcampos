@@ -1,14 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/xLT2SkK598fndwwyvn/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/fGmmfwQtCyHvwzhlyj/giphy.gif" width="300" height="300"/>
-</div>
+ </div>
 
 ---
 
@@ -16,12 +8,12 @@
 kaggle profile: https://www.kaggle.com/karolinerayzel
 
 ### 👩🏻‍💻 About me
-I'm a Data Analyst in development
+I'm a Data Scientist in development
 
 👩🏻‍💻 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
 
-- 🔭 I’m working on R, Python, Google Sheets and LibreCalc applied to independent projects in my development area.
-- 📚 Learning Pyhton and R
+- 🔭 My technical skills in data analysis allow me to collect, clean, analyze, and visualize data to gain valuable insights, using the tools Excel, Google Sheets, LibreOffice Calc, MySQL, Power BI, and statistical techniques.
+- 📚 Learning Power BI and MySQL
 - 🤜🏻🤛🏻 Looking to collaborate on little projects
 - 👩🏻 Pronouns: She/her
 - 📫 How to reach me: karoline.rayzel.rodrigues@alumni.usp.br
@@ -38,7 +30,6 @@ I'm a Data Analyst in development
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 
