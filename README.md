@@ -16,7 +16,7 @@
 kaggle profile: https://www.kaggle.com/karolinerayzel
 
 ### 👩🏻‍💻 About me
-I'm a Data Scientist in development
+I'm a Data Analyst in development
 
 👩🏻‍💻 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
 
@@ -28,7 +28,7 @@ I'm a Data Scientist in development
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### ⚒️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -38,6 +38,7 @@ I'm a Data Scientist in development
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 
