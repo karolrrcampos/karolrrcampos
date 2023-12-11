@@ -4,23 +4,27 @@
 
 ---
 
-### 👋 Hi, I’m @karolrrcampos
-[kaggle profile](https://www.kaggle.com/karolinerayzel)
+<h1 align="center">👋 Hi, I’m Karol!!<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### 👩🏻‍💻 About me
-I'm a Data Analyst in development
+<h3 align="center">Data Analyst in development | Data Science Enthusiast<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h3>
 
-🎓 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
+<h4 align="center">🎓 MSc Food Science and Technology - ESALQ/USP<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
+
+<h4 align="center">📚 MBA Data Science and Analytics Student - PECEGE ESALQ/USP<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
 
 - 🔭 My technical skills in data analysis allow me to collect, clean, analyze, and visualize data to gain valuable insights, using the tools Excel, Google Sheets, LibreOffice Calc, MySQL, Power BI, and statistical techniques.
-- 📚 Learning Power BI and MySQL
+- 📚 Learning Dax Code and Python
 - 🤜🏻🤛🏻 Looking to collaborate on little projects
 - 👩🏻 Pronouns: She/her
 - 📫 How to reach me: karoline.rayzel.rodrigues@alumni.usp.br
 
 ---
 
-### ⚒️ Languages and Tools:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+<br>
+
+<p align="center">
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
