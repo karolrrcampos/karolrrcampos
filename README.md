@@ -1,16 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xCJ6CBmBLIm7DZ3jL7/giphy.gif" width="200"/>
  </div>
 
 ---
 
 ### 👋 Hi, I’m @karolrrcampos
-kaggle profile: https://www.kaggle.com/karolinerayzel
+[kaggle profile](https://www.kaggle.com/karolinerayzel)
 
 ### 👩🏻‍💻 About me
-I'm a Data Scientist in development
+I'm a Data Analyst in development
 
-👩🏻‍💻 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
+🎓 MBA Data Science and Analytics Student - PECEGE ESALQ/USP
 
 - 🔭 My technical skills in data analysis allow me to collect, clean, analyze, and visualize data to gain valuable insights, using the tools Excel, Google Sheets, LibreOffice Calc, MySQL, Power BI, and statistical techniques.
 - 📚 Learning Power BI and MySQL
@@ -30,6 +30,7 @@ I'm a Data Scientist in development
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 
