@@ -8,9 +8,9 @@
 
 <h3 align="center">Data Analyst in development | Data Science Enthusiast<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h3>
 
-<h4 align="center">🎓 MSc Food Science and Technology - ESALQ/USP<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
+<h4 align="center">🎓 MSc Food Science and Technology at University of São Paulo<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
 
-<h4 align="center">📚 MBA Data Science and Analytics Student - PECEGE ESALQ/USP<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
+<h4 align="center">📚 MBA Data Science and Analytics Student at USP/ESALQ<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
 
 - 🔭 My technical skills in data analysis allow me to collect, clean, analyze, and visualize data to gain valuable insights, using the tools Excel, Google Sheets, LibreOffice Calc, MySQL, Power BI, and statistical techniques.
 - 📚 Learning Dax Code and Python
