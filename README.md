@@ -12,11 +12,13 @@
 
 <h4 align="center">📚 MBA Data Science and Analytics Student at USP/ESALQ<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> </h4>
 
-- 🔭 My technical skills in data analysis allow me to collect, clean, analyze, and visualize data to gain valuable insights, using the tools Excel, Google Sheets, LibreOffice Calc, MySQL, Power BI, and statistical techniques.
-- 📚 Learning Dax Code and Python
-- 🤜🏻🤛🏻 Looking to collaborate on little projects
-- 👩🏻 Pronouns: She/her
-- 📫 How to reach me: karoline.rayzel.rodrigues@alumni.usp.br
+📊 My technical skills in data analysis allow me to collect, clean, analyze, and visualize data to gain valuable insights, using the tools Excel, Google Sheets, LibreOffice Calc, MySQL, Power BI, and statistical techniques.
+
+📚 Learning Dax Code and Python
+
+🤜🏻🤛🏻 Looking to collaborate on little projects
+
+🛠️ Open to work
 
 ---
 
@@ -38,6 +40,15 @@
 </div>
 
 
+---
+
+### 📬 How to reach me:
+<div style "display: inline"
+<a href="https://medium.com/@karoline.rayzel.rodrigues_4151"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="karoline.rayzel.rodrigues@alumni.usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
 <!---
 karolrrcampos/karolrrcampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
