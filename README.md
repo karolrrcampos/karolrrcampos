@@ -43,10 +43,12 @@
 ---
 
 ### 📬 How to reach me:
-<div style "display: inline"
+
+<div style="display: inline;">
 <a href="https://medium.com/@karol.r.r.campos"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="karoline.rayzel.rodrigues@alumni.usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:karoline.rayzel.rodrigues@alumni.usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+
 
 ---
 <!---
